@@ -3,5 +3,6 @@ var kitten = 'Ralph';
 
 function destructivelyAppendKitten(kittens, kitten) {
   
-  kittens.push
+  kittens.push(kitten);
+  return kittns
 }

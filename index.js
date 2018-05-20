@@ -2,8 +2,8 @@ conts app = "I don't do much."
 
 var kittens = ['Milo', 'Otis', 'Garfield'];
 
-function destructivelyAppendKitten(kittens) {
+function destructivelyAppendKitten(name) {
   
-  kittens.push(kitten);
+  kittens.push(name);
   return kittens;
 }

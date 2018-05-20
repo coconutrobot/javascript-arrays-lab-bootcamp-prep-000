@@ -1,4 +1,4 @@
-conts = 
+conts app = "I don't do much"
 
 var kittens = ['Milo', 'Otis', 'Garfield'];
 var kitten = 'Ralph';

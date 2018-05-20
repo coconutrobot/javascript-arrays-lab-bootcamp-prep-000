@@ -4,5 +4,5 @@ var kitten = 'Ralph';
 function destructivelyAppendKitten(kittens, kitten) {
   
   kittens.push(kitten);
-  return kittns
+  return kittens;
 }
